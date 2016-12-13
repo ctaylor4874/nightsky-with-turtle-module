@@ -5,7 +5,7 @@ from random import randint;
 turtle.bgcolor('#00050a')
 
 #set turtle speed
-turtle.speed(7)
+turtle.speed(0)
 
 #hide turtle from view
 turtle.hideturtle()
